@@ -1,0 +1,14 @@
+
+.container {
+	max-width: 1000px;
+	margin: 0 auto;
+	padding-top: 40px;
+}
+div {
+	margin-bottom: 15px;
+}
+h2 {
+	margin-bottom: 20px;
+	font-size: 30px;
+	color: green;
+}
